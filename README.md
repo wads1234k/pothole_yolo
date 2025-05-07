@@ -17,5 +17,6 @@
 - **촬영 버튼**을 누르면 현재 프레임을 `photo/` 폴더에 저장
 - 저장된 이미지 경로를 GUI에 **텍스트로 표시**
 
-![alt text](<스크린샷 2025-05-07 122612.png>)
 
+
+![스크린샷 2025-05-07 122612](https://github.com/user-attachments/assets/af94a50a-d584-438e-aaed-7053545ab287)
